@@ -17,8 +17,8 @@ public class FirstClass {
 
         int g;
         g = (int)b + a;
-
-        System.out.println("g = " + g);
+//
+//        System.out.println("g = " + g);
 
         // == - опрератор сравнения, ! - оператор отрицания
         System.out.println(e);
